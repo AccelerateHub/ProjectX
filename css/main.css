@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#main-container{
+    height: 100vh !important;
+}
+.login-hero{
+    background-color: #F5F5F5;
+    height: 100vh !important;
+}
+.head-title{
+    font-size: 20px;
+}
+.text-span{
+    color: #FFFFFF;
+    background-color: #0E6AC6;
+    padding: 15px 20px 15px 20px;
+    border-radius: 150%;
+}
+.head-title img{
+    width: 260px;
+}
+
+.form-con{
+    height: 100vh !important;
+    background-color: #FFFFFF;
+}
+
+.content{
+    margin-top: 252px;
+}
+
+.img-center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.join{
+    text-align: center;
+    font: Regular 28px/34px Roboto;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+}
+
+.signup-con{
+    margin-top: 55px;
+    margin-bottom: 119px;
+}
+
+.sign-up-btn{
+    padding: 10px 50px 10px 50px;
+    font: Bold 16px/19px Roboto;
+    color: #FFFFFF;
+    background: #0E6AC6;
+    border-radius: 2px;
+}
+
+.sign-up-btn:hover{
+    color: #FFFFFF;
+    background: #0E6AC6;
+    border: 1px solid #F5F5F5;
+}
+
+/* Second half */
+.head-title{
+    margin-top: 50px;
+}
+
+.input-group-text {
+    border-left: 2px solid #A4A7A7A6;
+    border-top: 2px solid #A4A7A7A6;
+    border-bottom: 2px solid #A4A7A7A6;
+    border-right: 0px solid #A4A7A7A6;
+}
+
+.input-group-text i{
+    color: #A4A7A7A6;
+    }
+.forms-style {
+     border-left: 0px solid #A4A7A7A6;
+     border-top: 2px solid #A4A7A7A6;
+     border-bottom: 2px solid #A4A7A7A6;
+     border-right: 2px solid #A4A7A7A6;
+     border-radius: 2px !important;
+     font: Bold 16px/19px Roboto;
+     width: 533px;
+    height: 42px;
+}   
+
+.forgot-pass{
+    float: right;
+    text-decoration: none;
+    font: Bold 16px/19px Roboto;
+    letter-spacing: 0px;
+    color: #BCBCBC;
+}
+
+.term-conditions{
+    display: block;
+    font: Regular 16px/19px Roboto;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+
+.term-conditions a{
+    text-decoration: none;
+    color: #0E6AC6;
+}
+
+.or-text:after{
+    content: " ";
+    position: relative;
+    top: -10px;
+    left: 10px;
+    padding-left: 190px;
+    border-bottom: 1px solid #707070;
+}
+.or-text:before{
+    content: " ";
+    position: relative;
+    top: -10px;
+    right: 10px;
+    padding-left: 190px;
+   border-bottom: 1px solid #707070;
+}
+
+.sign-options-btn{
+    border: 1px solid #BCBCBC;
+    display: block !important;
+    padding: 15px;
+    background: #FBFBFB;
+    border-radius: 2px !important;
+    font: Bold 16px/19px Roboto;
+    letter-spacing: 0px;
+    color: #707070;
+}
+
+.sign-options-btn img {
+    float: left;
+    padding: 5px;
+    width: 29px;
+    height: 29px;
+}
+
+/* Sign up page */
+
+.signup-hero{
+    background-color: #0E6AC6;
+    height: 100vh !important;
+}
+
+.join-sign-up{
+    text-align: center;
+    font: Regular 28px/34px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.login-con{
+    margin-top: 55px;
+    margin-bottom: 119px;
+}
+
+.login-btn{
+    padding: 10px 50px 10px 50px;
+    font: Bold 16px/19px Roboto;
+    color: #0E6AC6;
+    background: #FFFFFF;
+    border-radius: 2px;
+}
+
+.login-btn:hover{
+    color: #0E6AC6;
+    background-color: #FFFFFF;
+    border: 1px solid #0E6AC6;
+}
+
+.gender-style{
+    background: #FBFBFB 0% 0% no-repeat padding-box;
+border: 2px solid #A4A7A7A6;
+border-radius: 2px;
+}
+
